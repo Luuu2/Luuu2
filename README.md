@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Lusanda Vilane
-- 👀 I’m interested in cyber-security and HCI
-- 🌱 I’m currently learning Network & Internetwork security, ICT4D and working on my honors project at UCT
-- 💞️ I’m looking to collaborate on ICT4D and cyber-security projects
+- 👀 I’m interested in cyber-security, software development (mobile & web), and HCI
+- 🌱 I just finished my my honors thesis & project at UCT
+- 💞️ I’m looking to collaborate on Software development, ICT4D & cybersecurity projects
 - 📫 How to reach me Lusanda.vilane@gmail.com
-
-
